@@ -34,21 +34,8 @@ def get_shop_list_by_dishes(dishes, person_count):
     print(shop_list)
 
 
-
-
-
 # Задание 3
 
-import os
-# current = os.getcwd()
-# folder = r'C:\Users\admin\Downloads\landing'
-# file1 = r'C:\Users\admin\Downloads\landing\1.txt'
-# file2 = r'C:\Users\admin\Downloads\landing\2.txt'
-# file3 = r'C:\Users\admin\Downloads\landing\3.txt'
-# full_path1 = os.path.join(current, folder, file1)
-# full_path2 = os.path.join(current, folder, file2)
-# full_path3 =os.path.join(current, folder, file3)
-# all_files = [full_path1,full_path2, full_path3 ]
 import os
 folder = r'C:\Users\admin\Downloads\landing'
 files = ['1.txt', '2.txt', '3.txt']
